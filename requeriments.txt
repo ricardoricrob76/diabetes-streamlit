@@ -3,3 +3,4 @@ pandas
 streamlit
 numpy
 scikit-learn==0.24.1
+sklearn.metrics
